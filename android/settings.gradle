@@ -1,0 +1,3 @@
+rootProject.name = 'electricshop_993'
+
+include ':app'
